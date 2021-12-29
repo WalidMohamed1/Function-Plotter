@@ -1,5 +1,5 @@
 # Function-Plotter
-a GUI program that plots arbitrary user-entered function. 
+A GUI program that plots arbitrary user-entered function. 
 
 <h4>Language used:</h4>
  <ul>
