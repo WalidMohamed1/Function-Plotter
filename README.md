@@ -27,8 +27,9 @@ A GUI program that plots arbitrary user-entered function.
       <li>function_Plotter.py</li>
       <li>test.py</li>
     </ul>
+ </ol>
  
-<h4>ScreenShots</h4>
+<h4>ScreenShots:</h4>
  
  ![Capture](https://user-images.githubusercontent.com/51799013/147517580-1a93af6e-62bc-42fc-b4cd-96d257715478.PNG)
  ![Capture1](https://user-images.githubusercontent.com/51799013/147517583-11a52a15-f9bb-4393-b8fd-2cb96d22ac9d.PNG)
